@@ -299,6 +299,7 @@ class _UpdateProfilePageState extends State<UpdateProfilePage> {
                     height: 10,
                   ),
                   SizedBox(width:10),//deature 2
+                  SizedBox(child: Text("new feature"),),
                   ElevatedButton(
                       style: ButtonStyle(
                           backgroundColor:
