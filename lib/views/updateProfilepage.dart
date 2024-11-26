@@ -298,6 +298,7 @@ class _UpdateProfilePageState extends State<UpdateProfilePage> {
                   SizedBox(
                     height: 10,
                   ),
+                  SizedBox(width:10),//deature 2
                   ElevatedButton(
                       style: ButtonStyle(
                           backgroundColor:
